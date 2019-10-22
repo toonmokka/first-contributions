@@ -2974,6 +2974,7 @@ Stephan Sharpe
 - Calvin DeJong
 - [Matthias Haefeli](https://github.com/matthiashaefeli)
 - [Gaayan Verma](https://github.com/GaayanVerma)
+- [Pachara Harnirattisai](https://github.com/toonmokka)
 - [Jon Sibala]( https://github.com/sibalajp )
 - [Joshua Kim](https://github.com/joshualaj)
 - [Matt Saffert](https://github.com/saffe012)
